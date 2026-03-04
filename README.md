@@ -1,4 +1,4 @@
-# Data Acquisition Program for Multi-Sensor Mult-Hazard Monitoring Unmanned Aircraft System (mUAS)
+# Data Acquisition Program for Multi-Sensor Multi-Hazard Monitoring Unmanned Aircraft System (mUAS)
 A python-based data acquisition program for a remote sensing platform integrating multiple sensor payload on a unmanned aerial vehicle (UAV) for structural behavior monitoring and environmental feature collection under multi-hazards.
 
 ### Python version:
