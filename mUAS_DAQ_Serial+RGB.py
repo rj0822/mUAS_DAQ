@@ -229,6 +229,3 @@ for t in Threads:
 
 print("DATA COLLECTION COMPLETED. ALL DATA SAVED TO DISK.")
 
-
-
-
