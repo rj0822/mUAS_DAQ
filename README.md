@@ -8,7 +8,7 @@ A python-based data acquisition program for a remote sensing platform integratin
 <b><i>Figure.</i></b> <i>Multi-sensor multi-hazard monitoring unmanned aircraft system (mUAS): 
 (a) AutoCAD rendering of the mUAS, 
 (b) Complete assembly of the mUAS at the test site,
-(c) Various sensing payloads applied in the mUAS.</i>
+(c) Various sensing payloads applied on the mUAS.</i>
 </p>
  
 For more details about the design of the mUAS and the data/results collected by this unique platform, please refer to the following publications:
